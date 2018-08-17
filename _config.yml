@@ -1,6 +1,6 @@
-safe: true
-# source: <your pages repo>
+# source: <the source dir>
 # destination: <the build dir>
+safe: true
 lsi: false
 highlighter: pygments
 
